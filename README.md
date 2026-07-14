@@ -1,4 +1,4 @@
-# Big Data
+# Prédiction de la sortie d’une entreprise
 
 Estimer la probabilité qu’une PME cesse son activité dans un horizon de deux ans à partir de données financières, organisationnelles et territoriales.
 
