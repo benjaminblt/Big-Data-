@@ -55,7 +55,6 @@ La comparaison finale repose principalement sur l’aire sous la courbe ROC, ou 
 - [Limites](#limites)
 - [Pistes d’amélioration](#pistes-damélioration)
 - [Auteurs](#auteurs)
-- [Avertissement](#avertissement)
 
 ---
 
