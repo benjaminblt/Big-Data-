@@ -136,7 +136,7 @@ Période couverte : 2005-2016
 
 Les données décrivent plusieurs années d’activité pour un ensemble d’entreprises européennes appartenant notamment à des secteurs industriels et de services.
 
-Les grandes entreprises réalisant plus de 100 millions d’euros de chiffre d’affaires annuel sont exclues de la source afin de protéger les données.
+Les grandes entreprises réalisant plus de 10 millions d’euros de chiffre d’affaires annuel sont exclues de la source afin de protéger les données.
 
 ## Dictionnaire des variables
 
